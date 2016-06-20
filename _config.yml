@@ -1,37 +1,59 @@
-# Site settings
-name: Alistair Hopkins
-description: "Blog"
-url: ""
+# Site wide configuration
+
+title: Alistair Hopkins
+locale: en_UK
+description: Describe your website here.
+logo: site-logo.png
+search: true
+url: http://localhost:4000
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
 
-# Delete the lines you don't need
-# about 5 elements are recomended
-github_username:  AlistairHopkins92
-
-
-linkedin_username: alistairhopkins92
-blog_url: "/blog"
-email: alistairhopkins92@gmail.com
-public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
-
-
-avatar: yes
-#avatar_img_path: "imgs/avatar.jpg""
-# You can link to your GitHub image. That way it will get updated
-# automatically whenever you change your GitHub profile picture
-avatar_img_path: "imgs/myface.jpg"
-
-
-front_img: yes
-front_img_path: "imgs/background.jpg"
-#front_img_path: "https://external.url/image.jpg"
-
-
-favicon_img: yes
-favicon_img_path: "imgs/_MG_0398.jpg"
-#favicon_img_path: "https://external.url/favicon.ico"
-
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+# Site owner
+owner:
+  name: Alistair Hopkins
+  avatar: bio-photo.jpg
+  email: alistairhopkins92@gmail.com
+  disqus-shortname:
+  twitter: #username
+  facebook: #username
+  github: Alistairhopkins92
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: alistairhopkins92
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
