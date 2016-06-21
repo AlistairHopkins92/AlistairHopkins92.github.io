@@ -39,7 +39,6 @@
     padding: 12px 20px;
     @include media($medium) {
       margin-bottom: 0;
-      padding: 6px 10px;
     }
     color: $white;
     @include rounded(4px);
