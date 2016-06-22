@@ -9,16 +9,18 @@ image:
 
 An aspiring developer and a Mathematics graduate with a keen interest in solving complex problems and making things work. I enjoy working as an individual as well as part of a team, I’m currently looking to join a team of like minded developers to continue my personal development.
 
-## So Simple Theme is all about:
+## Projects:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+Fill Me In
+![GitHub Logo](/images/myface.jpg)
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+Ride With Me
+![GitHub Logo](/images/myface.jpg)
+
+7 Days of Sun
+![GitHub Logo](/images/myface.jpg)
+
+Down to Go
+![GitHub Logo](/images/myface.jpg)
 
 [^1]: Example: *domain.com/category-name/post-title*
