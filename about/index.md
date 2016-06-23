@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Alistair Hopkins - Web Developer
+title: WDI Projects
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 
 ---
 
-An aspiring developer and a Mathematics graduate with a keen interest in solving complex problems and making things work. I enjoy working as an individual as well as part of a team, I’m currently looking to join a team of like minded developers to continue my personal development.
-
-## Projects:
 
 ### Fill Me In
 ‘Fill Me In’ is a two player puzzle game from my childhood traditionally played with pen and paper. It was built as my first project during the Web Development Immersive at General Assembly London. The game was built with JavaScript HTML and CSS.
