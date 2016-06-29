@@ -49,6 +49,8 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 '7 Days of Sun' is a last minute travel and weather-report JavaScript Single Page Application which shows only sunny locations in the coming 7 days. A user can search for sun by viewing a world map populated with pins depiciting where it will be sunny for the next week.
 
+A logged in user then may use the 'Sky Scanner' widget to select dates and then search the 'Sky Scanner' website to find the cheapest flight.
+
 [Link to project 3 GitHub](https://github.com/matmenzl/wdi-project-3)
 
 
