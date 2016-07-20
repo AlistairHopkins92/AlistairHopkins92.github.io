@@ -32,6 +32,10 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 ‘Come Ride With Me’ is a responsive website for sharing lifts built as my second project at GA. A user may list a journey of their own in order to advertise a place in their car to other users. Or a user may search listed journeys to find a cheap ride between any two major cities. 
 
+
+To log in, feel free to try the facebook authentication through the register option. This may or may not work depending on what changes Facebook make to their authentication services.
+
+
 [Link to project 2 GitHub](https://github.com/AlistairHopkins92/wdi-project-2)
 
 
