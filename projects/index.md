@@ -60,6 +60,8 @@ A logged in user then may use the 'Sky Scanner' widget to select dates and then 
 
 [Link to project 3 Heroku page](https://sevendaysofsun.herokuapp.com)
 
+
+
 ![GitHub Logo](/images/7days.png){: .projectimage}
 
 This project was built as the first group project as a team of three. The project was built with Ruby on Rails and included JavaScript, jQuery and Underscore.JS. The project made use of two APIs firstly the Google Maps API to plot the search results on a world map, and the forecast.io API to retrieve up to date weather conditions.
@@ -76,6 +78,10 @@ This project was built as the first group project as a team of three. The projec
 
 
 [Link to project 4 Heroku page](http://down-to-go.herokuapp.com/)
+
+
+To use this app open two tabs on seperate windows, then login as user1@user.com and user2@user.com using the password 'password'. From there select the location of bar kick from the drop down Google listing. On the location page, you can see the other users visiting the same venue and on your list of matches you can select chat to use the chat function between the two different windows. 
+
 
 ![GitHub Logo](/images/downtogo.png){: .projectimage}
 
