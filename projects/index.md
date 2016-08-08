@@ -7,6 +7,9 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
 
+
+
+
 ## Fill Me In
 
 #### WDI Project 1 - Week 3
@@ -22,7 +25,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ![GitHub Logo](/images/fillmein.png){: .projectimage}
 
 
-‘Fill Me In’ was built as my first project during the Web Development Immersive at General Assembly London. The project was presented on the Friday of week two and to be presented on the Tuesday of week three. The game was built with JavaScript, HTML and CSS.
+‘Fill Me In’ was built as my first project during the Web Development Immersive at General Assembly London. The project was presented on the Friday of week two and to be presented on the Tuesday of week three. The game was built with JavaScript, jQuery, HTML and CSS.
 
 
 ## Ride With Me
