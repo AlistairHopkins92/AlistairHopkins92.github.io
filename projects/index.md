@@ -64,6 +64,9 @@ A logged in user then may use the 'Sky Scanner' widget to select dates and then 
 
 ![GitHub Logo](/images/7days.png){: .projectimage}
 
+
+![GitHub Logo](/images/7daysaction.png){: .projectimage}
+
 This project was built as the first group project as a team of three. The project was built with Ruby on Rails and included JavaScript, jQuery and Underscore.JS. The project made use of two APIs firstly the Google Maps API to plot the search results on a world map, and the forecast.io API to retrieve up to date weather conditions.
 
 
