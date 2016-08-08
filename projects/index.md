@@ -83,16 +83,12 @@ This project was built as the first group project as a team of three. The projec
 ![GitHub Logo](/images/downtogo.png){: .projectimage}
 
 
-![GitHub Logo](/images/location.png){: .projectimage}
+![GitHub Logo](/images/location.png){: .projectimage2}
+![GitHub Logo](/images/users.png){: .projectimage2}
 
 
-![GitHub Logo](/images/users.png){: .projectimage}
-
-
-![GitHub Logo](/images/matches.png){: .projectimage}
-
-
-![GitHub Logo](/images/chat.png){: .projectimage}
+![GitHub Logo](/images/matches.png){: .projectimage2}
+![GitHub Logo](/images/chat.png){: .projectimage2}
 
 
 This was the fourth and final project at GA. The location service used the Google Maps API and the live chat was built using Socket.io.
