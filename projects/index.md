@@ -10,7 +10,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 
 
-<h2>Fill Me In</h2>
+<h1 id="project1">Fill Me In</h1>
 
 #### WDI Project 1 - Week 3
 
@@ -28,7 +28,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 ‘Fill Me In’ was built as my first project during the Web Development Immersive at General Assembly London. The project was presented on the Friday of week two and to be presented on the Tuesday of week three. The game was built with JavaScript, jQuery, HTML and CSS.
 
 
-## Ride With Me
+<h1 id="project2"> Ride With Me </h1>
 
 #### WDI Project 2 - Week 7
 
@@ -49,7 +49,7 @@ To log in, feel free to try the facebook authentication through the register opt
 'Come Ride With Me' was built as my second project at GA. The project was built using Ruby on Rails, CSS, styled with foundation and used OAuth for Facebook registration and login authentication.
 
 
-## 7 Days of Sun
+<h1 id="project3"> 7 Days of Sun </h1>
 
 #### WDI Project 3 - Week 9
 
@@ -77,7 +77,7 @@ This project was built as the first group project as a team of three. The projec
 The project made use of two APIs firstly the Google Maps API to plot the search results on a world map, and the forecast.io API to retrieve up to date weather conditions.
 
 
-## Down To Go
+<h1 id="project4"> Down To Go </h1>
 
 #### WDI Project 4 - Week 12
 
