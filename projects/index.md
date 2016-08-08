@@ -82,10 +82,12 @@ This project was built as the first group project as a team of three. The projec
 
 ![GitHub Logo](/images/downtogo.png){: .projectimage}
 
+Opening text describing Locations and users stage.
 
 ![GitHub Logo](/images/location.png){: .projectimage2}
 ![GitHub Logo](/images/users.png){: .projectimage2}
 
+More text about matches and chat.
 
 ![GitHub Logo](/images/matches.png){: .projectimage2}
 ![GitHub Logo](/images/chat.png){: .projectimage2}
