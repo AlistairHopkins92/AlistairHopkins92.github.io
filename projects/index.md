@@ -61,13 +61,17 @@ A logged in user then may use the 'Sky Scanner' widget to select dates and then 
 [Link to project 3 Heroku page](https://sevendaysofsun.herokuapp.com)
 
 
+Project 3 home page:
 
 ![GitHub Logo](/images/7days.png){: .projectimage}
 
+Project 3 search results:
 
 ![GitHub Logo](/images/7daysaction.png){: .projectimage}
 
-This project was built as the first group project as a team of three. The project was built with Ruby on Rails and included JavaScript, jQuery and Underscore.JS. The project made use of two APIs firstly the Google Maps API to plot the search results on a world map, and the forecast.io API to retrieve up to date weather conditions.
+This project was built as the first group project as a team of three. The project used NodeJS, ExpressJS, AJAX, mongoose, bcrypt, passport, jwt, bootstrap, underscore, HTML, CSS, JavaScript, google maps API, Dark Sky API, sky scanner widget.
+
+The project made use of two APIs firstly the Google Maps API to plot the search results on a world map, and the forecast.io API to retrieve up to date weather conditions.
 
 
 ## Down To Go
@@ -85,17 +89,17 @@ This project was built as the first group project as a team of three. The projec
 
 ![GitHub Logo](/images/downtogo.png){: .projectimage}
 
-Opening text describing Locations and users stage.
+The first stage of the app is to search for the location of where you want to go, from there a user can view all of the other people attending the same venue. The user can then make 'eyes' at other users and if the 'eyes' are reciprocated the two users will match.
 
 ![GitHub Logo](/images/location.png){: .projectimage2}
 ![GitHub Logo](/images/users.png){: .projectimage2}
 
-More text about matches and chat.
+From here a user may view their list of matches from the venue they are attending and if they so wish they may chat with each other.
 
 ![GitHub Logo](/images/matches.png){: .projectimage2}
 ![GitHub Logo](/images/chat.png){: .projectimage2}
 
 
-This was the fourth and final project at GA. The location service used the Google Maps API and the live chat was built using Socket.io.
+This was the fourth and final project at GA. The project was built using the following technologies: AngularJS, Grunt, bcrypt, jwt, passport, ui-router, mongoose, socket.io and AJAX. The location service used the Google Maps API and the live chat was built around Socket.io.
 
 [^1]: Example: *domain.com/category-name/post-title*
