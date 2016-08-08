@@ -77,13 +77,23 @@ This project was built as the first group project as a team of three. The projec
 [Link to project 4 GitHub](https://github.com/AlistairHopkins92/wdi-project-4)
 
 
-[Link to project 4 Heroku page](http://down-to-go.herokuapp.com/)
-
-
-To use this app open two tabs on seperate windows, then login as user1@user.com and user2@user.com using the password 'password'. From there select the location of bar kick from the drop down Google listing. On the location page, you can see the other users visiting the same venue and on your list of matches you can select chat to use the chat function between the two different windows. 
+[Link to project 4 Heroku page](http://down-to-go.herokuapp.com/) 
 
 
 ![GitHub Logo](/images/downtogo.png){: .projectimage}
+
+
+![GitHub Logo](/images/location.png){: .projectimage}
+
+
+![GitHub Logo](/images/users.png){: .projectimage}
+
+
+![GitHub Logo](/images/matches.png){: .projectimage}
+
+
+![GitHub Logo](/images/chat.png){: .projectimage}
+
 
 This was the fourth and final project at GA. The location service used the Google Maps API and the live chat was built using Socket.io.
 
